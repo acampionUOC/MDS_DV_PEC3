@@ -1,0 +1,73 @@
+name,ind,pos,pos_num,variable,value,PROVINCIA,any,nacionalismo_gp,ideologia_gp
+PSC,0,CI,0.375,Barcelona_21,23,Barcelona,2021,0,0.375
+CAT-JUNTS+,1,C,0.5,Barcelona_21,16,Barcelona,2021,1,0.5
+ERC,1,CI-I,0.3125,Barcelona_21,19,Barcelona,2021,1,0.3125
+PP,0,CD-D,0.6875,Barcelona_21,3,Barcelona,2021,0,0.6875
+VOX,0,D-ED,0.875,Barcelona_21,7,Barcelona,2021,0,0.875
+COMUNS SUMAR,0,CI-I,0.3125,Barcelona_21,7,Barcelona,2021,0,0.3125
+CUP - DT,1,I-EI,0.125,Barcelona_21,5,Barcelona,2021,1,0.125
+ALIANÇA.CAT,1,ED,1.0,Barcelona_21,0,Barcelona,2021,1,1.0
+Cs,0,C-CD,0.5625,Barcelona_21,5,Barcelona,2021,0,0.5625
+PSC,0,CI,0.375,Barcelona_24,28,Barcelona,2024,0,0.375
+CAT-JUNTS+,1,C,0.5,Barcelona_24,18,Barcelona,2024,1,0.5
+ERC,1,CI-I,0.3125,Barcelona_24,12,Barcelona,2024,1,0.3125
+PP,0,CD-D,0.6875,Barcelona_24,11,Barcelona,2024,0,0.6875
+VOX,0,D-ED,0.875,Barcelona_24,7,Barcelona,2024,0,0.875
+COMUNS SUMAR,0,CI-I,0.3125,Barcelona_24,6,Barcelona,2024,0,0.3125
+CUP - DT,1,I-EI,0.125,Barcelona_24,3,Barcelona,2024,1,0.125
+ALIANÇA.CAT,1,ED,1.0,Barcelona_24,0,Barcelona,2024,1,1.0
+Cs,0,C-CD,0.5625,Barcelona_24,0,Barcelona,2024,0,0.5625
+PSC,0,CI,0.375,Girona_21,3,Girona,2021,0,0.375
+CAT-JUNTS+,1,C,0.5,Girona_21,7,Girona,2021,1,0.5
+ERC,1,CI-I,0.3125,Girona_21,4,Girona,2021,1,0.3125
+PP,0,CD-D,0.6875,Girona_21,0,Girona,2021,0,0.6875
+VOX,0,D-ED,0.875,Girona_21,1,Girona,2021,0,0.875
+COMUNS SUMAR,0,CI-I,0.3125,Girona_21,0,Girona,2021,0,0.3125
+CUP - DT,1,I-EI,0.125,Girona_21,2,Girona,2021,1,0.125
+ALIANÇA.CAT,1,ED,1.0,Girona_21,0,Girona,2021,1,1.0
+Cs,0,C-CD,0.5625,Girona_21,0,Girona,2021,0,0.5625
+PSC,0,CI,0.375,Girona_24,4,Girona,2024,0,0.375
+CAT-JUNTS+,1,C,0.5,Girona_24,7,Girona,2024,1,0.5
+ERC,1,CI-I,0.3125,Girona_24,2,Girona,2024,1,0.3125
+PP,0,CD-D,0.6875,Girona_24,1,Girona,2024,0,0.6875
+VOX,0,D-ED,0.875,Girona_24,1,Girona,2024,0,0.875
+COMUNS SUMAR,0,CI-I,0.3125,Girona_24,0,Girona,2024,0,0.3125
+CUP - DT,1,I-EI,0.125,Girona_24,1,Girona,2024,1,0.125
+ALIANÇA.CAT,1,ED,1.0,Girona_24,1,Girona,2024,1,1.0
+Cs,0,C-CD,0.5625,Girona_24,0,Girona,2024,0,0.5625
+PSC,0,CI,0.375,Tarragona_21,4,Tarragona,2021,0,0.375
+CAT-JUNTS+,1,C,0.5,Tarragona_21,4,Tarragona,2021,1,0.5
+ERC,1,CI-I,0.3125,Tarragona_21,5,Tarragona,2021,1,0.3125
+PP,0,CD-D,0.6875,Tarragona_21,0,Tarragona,2021,0,0.6875
+VOX,0,D-ED,0.875,Tarragona_21,2,Tarragona,2021,0,0.875
+COMUNS SUMAR,0,CI-I,0.3125,Tarragona_21,1,Tarragona,2021,0,0.3125
+CUP - DT,1,I-EI,0.125,Tarragona_21,1,Tarragona,2021,1,0.125
+ALIANÇA.CAT,1,ED,1.0,Tarragona_21,0,Tarragona,2021,1,1.0
+Cs,0,C-CD,0.5625,Tarragona_21,1,Tarragona,2021,0,0.5625
+PSC,0,CI,0.375,Tarragona_24,6,Tarragona,2024,0,0.375
+CAT-JUNTS+,1,C,0.5,Tarragona_24,5,Tarragona,2024,1,0.5
+ERC,1,CI-I,0.3125,Tarragona_24,3,Tarragona,2024,1,0.3125
+PP,0,CD-D,0.6875,Tarragona_24,2,Tarragona,2024,0,0.6875
+VOX,0,D-ED,0.875,Tarragona_24,2,Tarragona,2024,0,0.875
+COMUNS SUMAR,0,CI-I,0.3125,Tarragona_24,0,Tarragona,2024,0,0.3125
+CUP - DT,1,I-EI,0.125,Tarragona_24,0,Tarragona,2024,1,0.125
+ALIANÇA.CAT,1,ED,1.0,Tarragona_24,0,Tarragona,2024,1,1.0
+Cs,0,C-CD,0.5625,Tarragona_24,0,Tarragona,2024,0,0.5625
+PSC,0,CI,0.375,Lleida_21,3,Lleida,2021,0,0.375
+CAT-JUNTS+,1,C,0.5,Lleida_21,5,Lleida,2021,1,0.5
+ERC,1,CI-I,0.3125,Lleida_21,5,Lleida,2021,1,0.3125
+PP,0,CD-D,0.6875,Lleida_21,0,Lleida,2021,0,0.6875
+VOX,0,D-ED,0.875,Lleida_21,1,Lleida,2021,0,0.875
+COMUNS SUMAR,0,CI-I,0.3125,Lleida_21,0,Lleida,2021,0,0.3125
+CUP - DT,1,I-EI,0.125,Lleida_21,1,Lleida,2021,1,0.125
+ALIANÇA.CAT,1,ED,1.0,Lleida_21,0,Lleida,2021,1,1.0
+Cs,0,C-CD,0.5625,Lleida_21,0,Lleida,2021,0,0.5625
+PSC,0,CI,0.375,Lleida_24,4,Lleida,2024,0,0.375
+CAT-JUNTS+,1,C,0.5,Lleida_24,5,Lleida,2024,1,0.5
+ERC,1,CI-I,0.3125,Lleida_24,3,Lleida,2024,1,0.3125
+PP,0,CD-D,0.6875,Lleida_24,1,Lleida,2024,0,0.6875
+VOX,0,D-ED,0.875,Lleida_24,1,Lleida,2024,0,0.875
+COMUNS SUMAR,0,CI-I,0.3125,Lleida_24,0,Lleida,2024,0,0.3125
+CUP - DT,1,I-EI,0.125,Lleida_24,0,Lleida,2024,1,0.125
+ALIANÇA.CAT,1,ED,1.0,Lleida_24,1,Lleida,2024,1,1.0
+Cs,0,C-CD,0.5625,Lleida_24,0,Lleida,2024,0,0.5625
